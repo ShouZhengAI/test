@@ -1,0 +1,5 @@
+for i in range(10):
+    print(i)
+print("Loop finished")
+print("This is outside the loop")
+print("用这个学习python真方便啊")
