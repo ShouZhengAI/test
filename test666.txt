@@ -1,5 +1,8 @@
 远端测试
 新增测试
 
+def function():
+	开发的一半的程序
+
 print(第一部分)
 print(第二部分)
